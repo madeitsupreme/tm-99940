@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: password_view
+TAG: TextView
+STATUS: ZALICZONE
